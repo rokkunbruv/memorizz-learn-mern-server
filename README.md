@@ -3,7 +3,7 @@ Server side (backend) of the Memorizz App. Created by following Parts 1 and 2 of
 [Go to the web app](https://memorizz-learn-mern.netlify.app)
   
 ### Deployment
-The server is deployed using this repository on Render.
+The server is deployed using this repository on Render. Render's free web service is used to host the server, so expect that the fetching of data will be **incredibly** slow.
   
 [Link to Server: https://memorizz-learn-mern-server.onrender.com](https://memorizz-learn-mern-server.onrender.com) 
 
