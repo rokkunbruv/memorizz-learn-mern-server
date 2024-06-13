@@ -1,12 +1,11 @@
 # Memorizz-Server
-Server side (backend) of the Memorizz App. Created by following Parts 1 and 2 of the Full Stack MERN Project Tutorial Series.  
-  
-Memorizz Link: https://memorizz-learn-mern.netlify.app
+Server side (backend) of the Memorizz App. Created by following Parts 1 and 2 of the Full Stack MERN Project Tutorial Series.   
+[Go to the web app](https://memorizz-learn-mern.netlify.app)
   
 ### Deployment
-The client is deployed using this repository on Render. However, the client could not send API requests to the server (
+The server is deployed using this repository on Render.
   
-
+[Link to Server: https://memorizz-learn-mern-server.onrender.com](https://memorizz-learn-mern-server.onrender.com) 
 
 
 
